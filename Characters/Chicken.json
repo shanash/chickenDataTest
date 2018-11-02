@@ -1,0 +1,33 @@
+{
+  "type":"Attack",
+  "figureName": "Chicken",
+  "name": "김일친",
+  "health": 50,
+  "range": 1.5,
+  "power": 1.5,
+  "speed": 1,
+  "attackPrefabName": "",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "ChickenSkill",
+    "name": "닭다리",
+    "effect": "",
+    "power": 10,
+    "coolTime": 4,
+    "range": 4,
+    "description": "",
+    "growth":
+    {
+      "power": 1
+    }
+  }
+}

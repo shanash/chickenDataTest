@@ -1,0 +1,33 @@
+{
+  "type":"Buff",
+  "figureName": "Mouse",
+  "name": "마우스광",
+  "health": 50,
+  "range": 4,
+  "power": 1,
+  "speed": 1,
+  "attackPrefabName": "",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 0.1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "MouseSkill",
+    "name": "코끼리",
+    "effect": "",
+    "power": 10,
+    "coolTime": 4,
+    "range": 3,
+    "description": "",
+    "growth":
+    {
+      "power": 1
+    }
+  }
+}

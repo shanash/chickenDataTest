@@ -1,0 +1,33 @@
+{
+  "type":"Attack",
+  "figureName": "BananaMonkey",
+  "name": "바나나원숭이",
+  "health": 50,
+  "range": 4,
+  "power": 1.5,
+  "speed": 3,
+  "attackPrefabName": "BananaAttack",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "",
+    "name": "",
+    "effect": "",
+    "power": 0,
+    "coolTime": 0,
+    "range": 0,
+    "description": "",
+    "growth":
+    {
+      "power": 0
+    }  
+  }
+}

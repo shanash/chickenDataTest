@@ -1,0 +1,33 @@
+{
+  "type":"Attack",
+  "figureName": "Horse",
+  "name": "푸홀스",
+  "health": 50,
+  "range": 2,
+  "power": 2,
+  "speed": 1.5,
+  "attackPrefabName": "",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "HorseSkill",
+    "name": "휠윈드",
+    "effect": "",
+    "power": 5,
+    "coolTime": 10,
+    "range": 1.5,
+    "description": "정신 없는 해드뱅잉",
+    "growth":
+    {
+      "power": 1
+    }  
+  }
+}

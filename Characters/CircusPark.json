@@ -1,0 +1,33 @@
+{
+  "type":"Attack",
+  "figureName": "CircusPark",
+  "name": "써커스박",
+  "health": 10,
+  "range": 4,
+  "power": 2,
+  "speed": 2,
+  "attackPrefabName": "NetAttack",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "",
+    "name": "",
+    "effect": "",
+    "power": 0,
+    "coolTime": 0,
+    "range": 0,
+    "description": "",
+    "growth":
+    {
+      "power": 0
+    }
+  }
+}

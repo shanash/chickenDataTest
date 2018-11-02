@@ -1,0 +1,33 @@
+{
+  "type":"Attack",
+  "figureName": "LongarmMonkey",
+  "name": "긴팔원숭이",
+  "health": 10,
+  "range": 1.5,
+  "power": 2,
+  "speed": 2,
+  "attackPrefabName": "",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "",
+    "name": "",
+    "effect": "",
+    "power": 0,
+    "coolTime": 0,
+    "range": 0,
+    "description": "",
+    "growth":
+    {
+      "power": 0
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type":"Attack",
+  "figureName": "Rabbit",
+  "name": "김일청",
+  "health": 50,
+  "range": 4,
+  "power": 1.5,
+  "speed": 3,
+  "attackPrefabName": "RabbitAttack",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "RabbitSkill",
+    "name": "당근",
+    "effect": "",
+    "power": 10,
+    "coolTime": 4,
+    "range": 3,
+    "description": "당근 먹어라!!",
+    "growth":
+    {
+      "power": 1
+    }  
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type":"Attack",
+  "figureName": "Dog",
+  "name": "파트라슈",
+  "health": 50,
+  "range": 1.5,
+  "power": 2,
+  "speed": 1.5,
+  "attackPrefabName": "",
+  "lvupCost":1,
+  "rewardExp":1,
+  "growth":
+  {
+    "health": 10,
+    "power": 1,
+    "lvupCost":1,
+    "rewardExp":1
+  },
+  "skill":
+  {
+    "prefabName": "DogSkill",
+    "name": "방구",
+    "effect": "",
+    "power": 10,
+    "coolTime": 5,
+    "range": 2,
+    "description": "매우 고약한 냄새",
+    "growth":
+    {
+      "power": 1
+    }
+  }
+}
